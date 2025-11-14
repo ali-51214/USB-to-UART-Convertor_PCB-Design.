@@ -17,17 +17,17 @@ This board helps interface a laptop with embedded systems during debugging, seri
 
 > Upload your images to the GitHub repository, then add the links like this:
 
+**USB-to-UART PCB — 2D View**
+
+![3D View](https://github.com/ali-51214/USB-to-UART-Convertor_PCB-Design./blob/main/2d.png)
+
 **USB-to-UART PCB — 3D View**
 
-![3D View](images/3d_view.png)
-
-**Top Layer**
-
-![Top Layer](images/top_layer.png)
+![Top Layer](https://github.com/ali-51214/USB-to-UART-Convertor_PCB-Design./blob/main/3d.png)
 
 **Schematic**
 
-![Schematic](images/schematic.png)
+![Schematic](https://github.com/ali-51214/USB-to-UART-Convertor_PCB-Design./blob/main/Schematic.png)
 
 ---
 
