@@ -1,0 +1,46 @@
+Added Component: Designator=J1(SAMTEC_TSW-105-06-L-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-105-06-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(SAMTEC_USBR-A-S-F-O-VU)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USBR-A-S-F-O-VU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USBR-A-S-F-O-VU/Samtec%20Inc./view-part/932531/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC127P600X180-16N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CH340C/WCH/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "WCH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CH340C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CH340C/WCH/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-02
+Added Pin To Net: NetName=GND Pin=J2-04
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Net: Name=GND
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=RX Pin=J1-04
+Added Pin To Net: NetName=RX Pin=U1-2
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=J1-03
+Added Pin To Net: NetName=TX Pin=U1-3
+Added Net: Name=TX
+Added Pin To Net: NetName=UD+ Pin=J2-03
+Added Pin To Net: NetName=UD+ Pin=U1-5
+Added Net: Name=UD+
+Added Pin To Net: NetName=UD- Pin=J2-02
+Added Pin To Net: NetName=UD- Pin=U1-6
+Added Net: Name=UD-
+Added Pin To Net: NetName=Vcc_Chip Pin=J1-01
+Added Pin To Net: NetName=Vcc_Chip Pin=J2-01
+Added Pin To Net: NetName=Vcc_Chip Pin=U1-16
+Added Net: Name=Vcc_Chip
+Added Rule: Name=Schematic Supply Nets
